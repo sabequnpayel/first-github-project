@@ -9,8 +9,9 @@
 
 .l2{
     background-color: rgb(110, 131, 119);
-    padding: 10px ;
-    padding-left:40px;
+
+    padding: 10px 30px;
     border-radius: 20px 0px;
 font-size: large;
+background-color: rgb(110, 131, 119);
 }
