@@ -2,10 +2,15 @@
     background-color: rgb(110, 131, 119);
     border-radius: 20px 0px;
     padding: 10px;
+    font-size: large;
     
 
 }
 
-#title{
-
+.l2{
+    background-color: rgb(110, 131, 119);
+    padding: 10px ;
+    padding-left:40px;
+    border-radius: 20px 0px;
+font-size: large;
 }
